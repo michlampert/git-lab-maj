@@ -41,3 +41,4 @@ Defau1t
 majcher
 PKopel
 jantry
+KonradPR
